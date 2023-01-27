@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá 👋
+
+🚀 Ingressando em uma nova jornada na minha vida profissional, encarando novos desafios.
+
+🔭 Habilidades de análise e planejamento de testes, com criatividade em moldá-los usando técnicas fundamentais e na prática utilizando métodos manuais, visando a melhoria do processo de qualidade de software.
+
+[Linkedin](https://www.linkedin.com/in/amanda-santos-024600234) 🌻
 
 <!--
 **amandasantosdev/amandasantosdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
